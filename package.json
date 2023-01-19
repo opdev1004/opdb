@@ -1,0 +1,21 @@
+{
+  "name": "opdb",
+  "version": "0.0.0",
+  "description": "Javascript database for node.js apps",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opdev1004/opdb.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdev1004/opdb/issues"
+  },
+  "homepage": "https://github.com/opdev1004/opdb#readme"
+}
