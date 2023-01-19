@@ -12,6 +12,11 @@ module.exports = class BGraphDB {
         this.filename = filename;
     }
 
+    close()
+    {
+        this.filename = undefined;
+    }
+
     serialize()
     {
         return this.bgraph.serialize();
